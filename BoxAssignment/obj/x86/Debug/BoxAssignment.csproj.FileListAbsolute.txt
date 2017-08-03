@@ -1,0 +1,6 @@
+/Users/Jibril/Projects/BoxAssignment/BoxAssignment/obj/x86/Debug/BoxAssignment.csproj.CoreCompileInputs.cache
+/Users/Jibril/Projects/BoxAssignment/BoxAssignment/bin/Debug/BoxAssignment.exe
+/Users/Jibril/Projects/BoxAssignment/BoxAssignment/bin/Debug/BoxAssignment.pdb
+/Users/Jibril/Projects/BoxAssignment/BoxAssignment/obj/x86/Debug/BoxAssignment.exe
+/Users/Jibril/Projects/BoxAssignment/BoxAssignment/obj/x86/Debug/BoxAssignment.pdb
+/Users/Jibril/Projects/BoxAssignment/BoxAssignment/obj/x86/Debug/BoxAssignment.csprojResolveAssemblyReference.cache
